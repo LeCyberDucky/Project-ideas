@@ -1,0 +1,15 @@
+https://www.reddit.com/r/compsci/comments/fuaudc/10_algorithms_every_computer_science_student_must/
+- Plagiarism detection using Rabin Karp String matching
+- Matching users to servers, using Gayle-Shapely algorithm for Stable Marriage problem
+- Viterbi algorithm - Finds most likely sequence of states 
+- Music search using Fast Fourier Transforms (FFT) https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
+- RSA algorithm 
+- Safe browsing using Bloom filters
+- LALR parser - Makes syntactic sens of source code
+- Treemap using Red Black Trees
+- Circle Drawing using Bresenham's algorithm 
+- PageRank
+- A*
+- Dijkstra's algorithm 
+- Huffman coding
+- http://theory.stanford.edu/~amitp/GameProgramming/ 
