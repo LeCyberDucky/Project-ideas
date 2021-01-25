@@ -57,6 +57,7 @@
 - ### Math and Physics
   - #### [Steganography](https://en.wikipedia.org/wiki/Steganography)
     - [PNGme - Hiding messages in images](https://picklenerd.github.io/pngme_book/introduction.html)
+    - [Executable PNGs](https://www.reddit.com/r/rust/comments/kkma2z/executable_pngs_written_in_rust/)
   - Orbiting stuff (particle systems, rose, foucault pendulum)
     - Solar system
     - n-body problem: https://en.wikipedia.org/wiki/N-body_problem
@@ -150,7 +151,17 @@
 - [From Nand to Tetris - Building a Modern Computer From First Principles](https://www.nand2tetris.org/)
 
 - [Writing Brainfuck Interpreter to learn Assembly](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
+
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
  
+- [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+
+- [The Synacor Challenge](https://challenge.synacor.com/)
+
+- [Error Handling in Rust - Burntsushi](https://blog.burntsushi.net/rust-error-handling/)
+- [Building Your Own Error Type: Part 1](https://yaah.dev/building-your-own-error-type)
+- [The Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
+
 ---
 ## Topics
 
