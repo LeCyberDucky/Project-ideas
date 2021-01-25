@@ -10,7 +10,7 @@
 
 ---
 ## Algorithms
---- 
+
 - [10 algorithms every computer science student must implement at least once in life](https://www.reddit.com/r/compsci/comments/fuaudc/10_algorithms_every_computer_science_student_must/)
   - Plagiarism detection using Rabin Karp String matching
   - Matching users to servers, using Gayle-Shapely algorithm for Stable Marriage problem
@@ -29,7 +29,7 @@
 
 ---
 ## Computer Vision
----
+
 - [Sensor fusion/Robots/Autonomous vehicle stuff](https://www.reddit.com/r/cpp/comments/huh7d2/advanced_cc_side_projects/) 
 
 - Autonomous vehicle stuff 
@@ -47,16 +47,12 @@
 
 ---
 ## Creative
----
 
 - ### Automata 
   - [Conway's Game of Life](https://github.com/LeCyberDucky/conway) ✔
   - [Langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant#Extension_to_multiple_colors)
   - [Rule 110](https://en.wikipedia.org/wiki/Rule_110)
   - [Formicarium](https://gliderkite.github.io/posts/formicarium/)
-
-
-
 
 - ### Math and Physics
   - #### [Steganography](https://en.wikipedia.org/wiki/Steganography)
@@ -76,13 +72,12 @@
 
 ---
 ## Embedded
----
+
 - [Blinkenlights](https://github.com/LeCyberDucky/Blinkenlights)
 - Snake on a Microcontroller using Rust
 
 ---
 ## Games
----
 
 - ### Emulation
   - [CHIP-8](https://www.reddit.com/r/rust/comments/glczk5/projects_to_do_after_rust_book/fqxi62n/)
@@ -99,7 +94,7 @@
 
 ---
 ## Graphics
----
+
 - ### Ray tracing
   - https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/
   - [Ray tracing in one weekend](https://raytracing.github.io/)
@@ -123,14 +118,13 @@
 
 ---
 ## Open source contributions
----
+
 - [Contributing to Rust](https://www.reddit.com/r/rust/comments/gr1oel/contributing_to_rust/)
 - [Rust GPU](https://github.com/EmbarkStudios/rust-gpu)
 
-
 ---
 ## Practical
----
+
 - ### [Bitgeon](https://github.com/LeCyberDucky/bitgeon) 👷‍♂️🛠⚠
   - P2P file sharing
 
@@ -145,7 +139,7 @@
 
 ---
 ## Learning/Exercises
----
+
 - [Advent of Code](https://adventofcode.com/)
 
 - https://github.com/rust-lang/rustlings
@@ -159,6 +153,6 @@
  
 ---
 ## Topics
----
+
 - [WebAssembly](https://rustwasm.github.io/docs/book/)
 ---
