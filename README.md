@@ -82,6 +82,7 @@
 
 - ### Emulation
   - [CHIP-8](https://www.reddit.com/r/rust/comments/glczk5/projects_to_do_after_rust_book/fqxi62n/)
+    - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
   - Gameboy
   
 - ### Game hacking
