@@ -72,10 +72,11 @@
 - [Boids flocking algorithm](https://www.reddit.com/r/rust/comments/gsldbi/3d_boids_swimming_along_in_perfect_harmony/)
 
 ---
-## Embedded
+## Hardware
 
 - [Blinkenlights](https://github.com/LeCyberDucky/Blinkenlights)
 - Snake on a Microcontroller using Rust
+- Hacking: For example, interfacing Nintendo Switch Joy Cons or writing programs that run on a Gameboy
 
 ---
 ## Games
@@ -138,6 +139,7 @@
 - Steam sorter (WASM?)
   - Sorting wishlist efficiently
 - App launch silencer 2.0
+- Command line tool to merge PDF files (either a given list, or all files in the directory)
 
 ---
 ## Learning/Exercises
