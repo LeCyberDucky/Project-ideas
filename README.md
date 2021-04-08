@@ -44,6 +44,9 @@
 - Computational geometry algorithms for creating a convex hull and triangulation 
 - Digital signal processing algorithms for embedded platforms (audio equalizer, face recognition, image classification) 
 
+- Photogrammetry (measuring real object size from images)
+- 3D-scanning with smartphone camera
+
 
 ---
 ## Creative
@@ -65,6 +68,9 @@
   - Heat transfer rendering
   - Circle packing
   - [The Nature of Code](https://natureofcode.com/)
+  - Differential geometry library called Donut
+  - Rust Linear Algebra Library called RuLA (with a ruler as a logo, heh)
+  - [A simulation of evolution using neural networks and genetic algorithms](https://pwy.io/en/posts/learning-to-fly-pt1/)
 
 - Visualize Spotify music in real time
 - Everything coding train
@@ -76,7 +82,12 @@
 
 - [Blinkenlights](https://github.com/LeCyberDucky/Blinkenlights)
 - Snake on a Microcontroller using Rust
-- Hacking: For example, interfacing Nintendo Switch Joy Cons or writing programs that run on a Gameboy
+- Hacking: For example, interfacing Nintendo Switch Joy Cons or writing programs that run on a Gameboy. 
+  - Sending XBox-controller output through a microcontroller and wirelessly transmit to the Nintendo Switch to emulate a Pro Controller 
+  - https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/
+  - Dump GBA roms from cartridges using an arduino
+- Noise cancellation with Arduino
+- Mod RC car to control it via the computer (also add a little camera)
 
 ---
 ## Games
@@ -89,6 +100,7 @@
 - ### Game hacking
   - https://www.reddit.com/r/rust/comments/gp1que/i_did_my_first_project_in_rust_a_photo_mode_for/
   - [Rust Switch modding](https://jam1.re/blog/rust-for-game-modding)
+  - https://www.gridbugs.org/reverse-engineering-nes-tetris-to-add-hard-drop/
 
 - Casino games (Black Jack, Poker)
 - Sandbox game where you can draw elements that interact (falling sand game)
@@ -140,6 +152,7 @@
   - Sorting wishlist efficiently
 - App launch silencer 2.0
 - Command line tool to merge PDF files (either a given list, or all files in the directory)
+  - Perhaps combine Rust and Python for this? Rust for the command line interface, Python for working with PDFs. Good for learning how to combine the two
 
 ---
 ## Learning/Exercises
@@ -164,6 +177,8 @@
 - [Error Handling in Rust - Burntsushi](https://blog.burntsushi.net/rust-error-handling/)
 - [Building Your Own Error Type: Part 1](https://yaah.dev/building-your-own-error-type)
 - [The Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
+
+- [Hack the box](https://www.hackthebox.eu/individuals)
 
 ---
 ## Topics
