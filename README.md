@@ -71,6 +71,7 @@
   - Differential geometry library called Donut
   - Rust Linear Algebra Library called RuLA (with a ruler as a logo, heh)
   - [A simulation of evolution using neural networks and genetic algorithms](https://pwy.io/en/posts/learning-to-fly-pt1/)
+  - [Donut Math](https://www.a1k0n.net/2011/07/20/donut-math.html): Re-create donut.c in Rust
 
 - Visualize Spotify music in real time
 - Everything coding train
@@ -88,6 +89,8 @@
   - Dump GBA roms from cartridges using an arduino
 - Noise cancellation with Arduino
 - Mod RC car to control it via the computer (also add a little camera)
+- Something with solar cells, a wireless MCU, and an e-ink display
+- Funny stuff with random old hardware, like programming a used calculator or building something with sensors and stuff from broken coffee machines
 
 ---
 ## Games
@@ -132,6 +135,14 @@
   - Fast ellipsis detection
 
 ---
+## Mobile
+- Create an Android app that can communicate with a microcontroller to control something
+  - Look into [Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+  - Look at how the Rust-Android story is currently looking. 
+    - https://crates.io/crates/uniffi 
+    - https://bevyengine.org/news/bevy-0-3/#initial-android-support
+    - https://crates.io/crates/cargo-apk
+---
 ## Open source contributions
 
 - [Contributing to Rust](https://www.reddit.com/r/rust/comments/gr1oel/contributing_to_rust/)
@@ -153,6 +164,7 @@
 - App launch silencer 2.0
 - Command line tool to merge PDF files (either a given list, or all files in the directory)
   - Perhaps combine Rust and Python for this? Rust for the command line interface, Python for working with PDFs. Good for learning how to combine the two
+- Tool that lets you use a laptop (maybe even a phone) as a second screen for another computer and allows for touch-input
 
 ---
 ## Learning/Exercises
