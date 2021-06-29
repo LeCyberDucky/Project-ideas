@@ -133,6 +133,8 @@
     - Image manipulation, low-poly generation, shape detection...
   - Program to remove background from image (using deep learning or something?)
   - Fast ellipsis detection
+  - Library called "Klex" containing the tools and algorithms for all my visual projects
+  - - Image processing pipeline
 
 ---
 ## Mobile
@@ -165,6 +167,8 @@
 - Command line tool to merge PDF files (either a given list, or all files in the directory)
   - Perhaps combine Rust and Python for this? Rust for the command line interface, Python for working with PDFs. Good for learning how to combine the two
 - Tool that lets you use a laptop (maybe even a phone) as a second screen for another computer and allows for touch-input
+
+- Simple compose key program (like [WinCompose](https://github.com/samhocevar/wincompose))
 
 ---
 ## Learning/Exercises
