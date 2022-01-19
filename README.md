@@ -77,6 +77,7 @@
 - Everything coding train
 - Procedural generation
 - [Boids flocking algorithm](https://www.reddit.com/r/rust/comments/gsldbi/3d_boids_swimming_along_in_perfect_harmony/)
+- https://github.com/psenough/teach_yourself_demoscene_in_14_days 
 
 ---
 ## Hardware
@@ -124,9 +125,12 @@
 - ### Rendering
   - http://www.pbr-book.org/ 
     - https://github.com/mmp/pbrt-v4
+  - https://courses.compute.dtu.dk/02941/
 
   - Fancy rendering in tiny programs 
     - https://www.reddit.com/r/rust/comments/hlsxwg/creating_a_winning_a_4k_intro_in_rust/
+
+  - [Creation and Rendering of Realistic Trees - Jason Weber - Joseph Penn](https://courses.cs.duke.edu/cps124/spring08/assign/07_papers/p119-weber.pdf)
 
 - ### Image analysis and manipulation
   - #### [Mandalox](https://github.com/LeCyberDucky/mandalox)
@@ -135,6 +139,9 @@
   - Fast ellipsis detection
   - Library called "Klex" containing the tools and algorithms for all my visual projects
   - - Image processing pipeline
+
+- https://www.scratchapixel.com/ 
+- https://sotrh.github.io/learn-wgpu/ 
 
 ---
 ## Mobile
@@ -170,6 +177,18 @@
 
 - Simple compose key program (like [WinCompose](https://github.com/samhocevar/wincompose))
 
+- Kotlin sporty app
+
+
+### Stuff using the windows crate
+- https://docs.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows
+- Compose key
+- AppLaunchSilencer 2.0
+  - https://docs.microsoft.com/en-us/windows/win32/coreaudio/volume-controls
+  - https://docs.microsoft.com/en-us/windows/win32/coreaudio/session-volume-controls
+- Spotify visualizer 
+  - https://docs.microsoft.com/en-us/samples/microsoft/windows-classic-samples/applicationloopbackaudio-sample/
+
 ---
 ## Learning/Exercises
 
@@ -196,8 +215,21 @@
 
 - [Hack the box](https://www.hackthebox.eu/individuals)
 
+- Inertial navigation system
+- Receiving satellite signals 
+
 ---
 ## Topics
 
 - [WebAssembly](https://rustwasm.github.io/docs/book/)
+---
+
+---
+## Name ideas 
+
+- Aurora
+- Dawn
+- Polaris
+- Nova
+- Helios
 ---
