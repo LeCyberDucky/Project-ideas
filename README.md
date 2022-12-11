@@ -78,6 +78,7 @@
 - Procedural generation
 - [Boids flocking algorithm](https://www.reddit.com/r/rust/comments/gsldbi/3d_boids_swimming_along_in_perfect_harmony/)
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days 
+- Software that runs in the background and generates statistics, like typing speed and something about mouse movement (perhaps painting mouse movement)
 
 ---
 ## Hardware
@@ -92,6 +93,24 @@
 - Mod RC car to control it via the computer (also add a little camera)
 - Something with solar cells, a wireless MCU, and an e-ink display
 - Funny stuff with random old hardware, like programming a used calculator or building something with sensors and stuff from broken coffee machines
+- Tastatur bauen und programmieren 
+- Switch modden und programmieren
+- Alten Drucker WLAN-fähig machen
+- Tastatur designen, basteln, programmieren (oder vielleicht einfach ein Numpad mit mediatasten, touchbildschirm, lautstärke-scroll-rad, als zusatz zu einer sehr kompakten tastatur)
+  - https://www.reddit.com/r/MechanicalKeyboards/wiki/customkeyboards
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/9kci7n/how_to_get_started_building_a_keyboard/
+  - https://www.youtube.com/watch?v=W0FSvTYlggw
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/ix54og/i_want_to_try_to_build_a_keyboard_from_scratch/
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/q4n52h/introducing_keyboard_builder_build_your_keyboard/
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/tzzlsv/i_want_to_build_a_custom_keyboard_for_under_100/
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/4l0p41/guide_detailed_guide_to_making_a_custom_keyboard/
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/ripqmd/how_should_i_build_my_first_custom_keyboard/
+  - https://www.keyboard.university/
+  - https://www.reddit.com/r/MechanicalKeyboards/comments/sz24r2/my_first_mechanical_keyboard_build_i_will_never/
+  - https://github.com/TeXitoi/keyberon
+
+- Oszilloskop basteln
+- Matrix Buchstabenregeneffekt auf ESP32-S3 mit Display 
 
 ---
 ## Games
@@ -170,7 +189,7 @@
 - Steam market tracker
 - Steam sorter (WASM?)
   - Sorting wishlist efficiently
-- App launch silencer 2.0
+- App launch silencer 2.0 (easily adaptable to new programs)
 - Command line tool to merge PDF files (either a given list, or all files in the directory)
   - Perhaps combine Rust and Python for this? Rust for the command line interface, Python for working with PDFs. Good for learning how to combine the two
 - Tool that lets you use a laptop (maybe even a phone) as a second screen for another computer and allows for touch-input
@@ -178,6 +197,13 @@
 - Simple compose key program (like [WinCompose](https://github.com/samhocevar/wincompose))
 
 - Kotlin sporty app
+
+- WYSIWYG math editor
+  - Typing equations like in word and LaTeX
+  - No waiting for slow LaTeX compilation
+  - Functionality from programming (defining expressions as a variable, using that variable in an expression, and be able to expand it)
+  - Sympy simplification backend?
+  - Ability to export to useful formats 
 
 
 ### Stuff using the windows crate
@@ -188,6 +214,8 @@
   - https://docs.microsoft.com/en-us/windows/win32/coreaudio/session-volume-controls
 - Spotify visualizer 
   - https://docs.microsoft.com/en-us/samples/microsoft/windows-classic-samples/applicationloopbackaudio-sample/
+
+### Noise cancelling that hooks into shazam (and spotify?) to find the music that is heard and can then use this information to cancel it out. 
 
 ---
 ## Learning/Exercises
@@ -217,6 +245,8 @@
 
 - Inertial navigation system
 - Receiving satellite signals 
+- https://github.com/plfa/plfa.github.io
+- https://plfa.github.io/
 
 ---
 ## Topics
@@ -232,4 +262,6 @@
 - Polaris
 - Nova
 - Helios
+- Nautilus 
+- Atlantis 
 ---
